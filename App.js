@@ -6,8 +6,8 @@ import 'firebase/firestore';
 // Hooks
 import { useAuthState, useDarkMode } from './hooks';
 // Components
-import Channel from './components/Channel';
-import Loader from './components/Loader';
+import Channel from './Channel';
+import Loader from './Loader';
 
 firebase.initializeApp({
   apiKey: 'AIzaSyDLov-cHbj5eLawh9vVUSX6bFi_dQltW9M',
